@@ -1,0 +1,19 @@
+{
+  "name": "dz-vue-event",
+  "version": "1.0.0",
+  "description": "Global event for Vue",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tayshin/dz-vue-event.git"
+  },
+  "keywords": [
+    "vue",
+    "vuex"
+  ],
+  "author": "Tayshin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tayshin/dz-vue-event/issues"
+  }
+}
