@@ -24,7 +24,7 @@ mounted() {
   this.$event.once('event2', () => console.log('This listener only fire once'));
 },
 beforeDestroy() {
-  this.$event.off('add-todo', this.addTodo);
+  this.$event.off('event1');
 },
 methods: {
   function1() {
