@@ -41,7 +41,7 @@
             }
         });
     }
-    // if the script is being run in a web-browser 
+    // 用script标签引用，不是node环境 
     if (typeof window !== 'undefined' && window.Vue) {
         window.Vue.use(VueEvent);
     }

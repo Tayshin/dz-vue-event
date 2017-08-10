@@ -1,6 +1,6 @@
 {
   "name": "dz-vue-event",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Global event for Vue",
   "main": "index.js",
   "repository": {
