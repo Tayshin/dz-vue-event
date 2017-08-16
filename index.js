@@ -7,6 +7,7 @@
     (global.VueEvent = factory());
 }(this, (function() { 
     function VueEvent(Vue){
+
         var event = new Vue();
 
         Object.defineProperty(event,"on",{
